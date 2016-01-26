@@ -4,5 +4,5 @@ New, fresh and modern look with changed content for better user experience. Ever
 
 ## Technology
 
-*Bootstrap
+* Bootstrap
 
